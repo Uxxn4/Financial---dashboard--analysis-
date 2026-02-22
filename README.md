@@ -7,8 +7,8 @@ Financial analysis and interactive dashboard using tableau
 
 
 ## Dashboard Preview 
-! [image alt] (https://github.com/Uxxn4/Financial---dashboard--analysis-/blob/69ee74076b95cf0429468d36c06867ceb91da1db/Dashboard%20screen%201.png)
-![ Dashboard 2 ] (Dashboard Screen 2.png)
+![Dashboard 1](Dashboard%20screen%201.png)
+![Dashboard 2](Dashboard%20Screen%202.png)
 
 
 
