@@ -7,7 +7,7 @@ Financial analysis and interactive dashboard using tableau
 
 
 ## Dashboard Preview 
-![ Dashboard 1 ] (Dashboard Screen 1.png)
+![ Dashboard 1 ] (Dashboard screen 1.png)
 
 ![ Dashboard 2 ] (Dashboard Screen 2.png)
 
