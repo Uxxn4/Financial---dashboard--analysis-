@@ -6,6 +6,34 @@ Financial analysis and interactive dashboard using tableau
 #
 
 
+## Dashboard Preview 
+![ Dashboard 1 ] (Dashboard Screen 1.png)
+
+![ Dashboard 2 ] (Dashboard Screen 2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+
+
+
+
 Project Overview 
 
 This is a financial analysis and dashboard for Apple Inc. (AAPL), one of the most valuable companies. the analysis is trying to answer how has Apple performed financially and in the stock market over time. 
